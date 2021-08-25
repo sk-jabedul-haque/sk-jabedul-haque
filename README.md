@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sk-jabedul-haque
-- 👀 I’m interested in music
+- 👀 I’m interested in photography
 - 🌱 I’m currently learning compose
-- 📫 How to reach me music sell
 
 <!---
 sk-jabedul-haque/sk-jabedul-haque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
